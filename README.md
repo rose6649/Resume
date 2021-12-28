@@ -27,7 +27,6 @@ rarara1515@gmail.com
 
 
 
-### 1
 
 ### Ounce
 
@@ -61,7 +60,6 @@ rarara1515@gmail.com
 <br>
 
 
-### 2
 
 ### Moca
 
@@ -91,7 +89,7 @@ Firebase 앱 배포 및 유지보수
 <br>
 <br>
 
-### 3
+
 
 ### Booster
 
