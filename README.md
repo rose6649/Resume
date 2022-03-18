@@ -53,6 +53,8 @@ rarara1515@gmail.com
 
 참고 영상 | https://www.youtube.com/watch?v=BTORFGlA3IQ&t=6s
 
+앱 스토어 링크 | https://apps.apple.com/us/app/%EC%98%A8%EC%8A%A4-ounce/id1613052954
+
 상표권 특허 등록 번호 | 4017855740000
 
 
