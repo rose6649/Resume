@@ -40,12 +40,13 @@ rarara1515@gmail.com
 
 <br>
 
-- 2020.09 - 2020.12
-- KingFisher
+- 2020.09 - 진행 중 (유지보수)
+- KingFisher (이미지 캐싱 처리)
 - AVFoundation
 - Alamofire
 - REST api
 - SwiftKeyWrapper
+- MVC
 
 <br>
 
